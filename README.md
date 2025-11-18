@@ -6,9 +6,9 @@
 ## 🚀 About Me  
 Passionate Computer Engineering student at the University of Peradeniya with a strong foundation in software development and growing interest in AI and Machine Learning. I love building scalable systems, intuitive dashboards, and creative tech solutions that blend engineering with design.
 
-- 🔭 I’m currently working on **Safe Plus – Smart Safety Helmet** (Full-stack + IoT safety system)
-- 🌱 I’m learning more about **Machine Learning, Cloud Deployment & Image Processing**
-- 👯 I’m open to **collaborations** on MERN stack, IoT dashboards & ML projects  
+- 🔭 I’m currently working on FInal Year Project - VLM Based Discovery for Knee OSteoarthritis Phenotypes
+- 🌱 I’m learning more about **Machine Learning, Full Stack Development & AI**
+- 👯 I’m open to **collaborations** on Full Stack Development & ML projects  
 - 🎨 I also enjoy **drawing, illustration, and UI/UX design**
 
 ---
@@ -52,14 +52,6 @@ Passionate Computer Engineering student at the University of Peradeniya with a s
 <p align="center">
   <img height="180" src="https://github-readme-stats.vercel.app/api?username=amandasiriwardane&show_icons=true&theme=radical" />
   <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=amandasiriwardane&layout=compact&theme=radical" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=amandasiriwardane&show_icons=true&theme=tokyonight&hide_border=true" />
-  
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=amandasiriwardane&theme=tokyonight&hide_border=true" />
-  
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=amandasiriwardane&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
 
 ---
