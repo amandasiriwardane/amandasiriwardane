@@ -3,26 +3,25 @@
 
 ---
 
-## 🚀 About Me  
+## About Me  
 Passionate Computer Engineering student at the University of Peradeniya with a strong foundation in software development and growing interest in AI and Machine Learning. I love building scalable systems, intuitive dashboards, and creative tech solutions that blend engineering with design.
 
-- 🔭 I’m currently working on FInal Year Project - VLM Based Discovery for Knee OSteoarthritis Phenotypes
-- 🌱 I’m learning more about **Machine Learning, Full Stack Development & AI**
-- 👯 I’m open to **collaborations** on Full Stack Development & ML projects  
-- 🎨 I also enjoy **drawing, illustration, and UI/UX design**
+- I’m currently working on FInal Year Project - VLM Based Discovery for Knee OSteoarthritis Phenotypes
+- I’m learning more about **Machine Learning, Full Stack Development & AI**
+- I’m open to **collaborations** on Full Stack Development & ML projects  
+- I also enjoy **drawing, illustration, and UI/UX design**
 
 ---
 
-## 📫 Contact Me  
-📍 Department of Computer Engineering, University of Peradeniya  
-📧 Email: **e20378@eng.pdn.ac.lk**  
-📱 Phone: **077 3649650**  
-🔗 LinkedIn: [linkedin.com/in/amanda-siriwardane](https://linkedin.com/in/amanda-siriwardane)  
-🐙 GitHub: [github.com/amandasiriwardane](https://github.com/amandasiriwardane)
+## Contact Me  
+Department of Computer Engineering, University of Peradeniya  
+Email: **e20378@eng.pdn.ac.lk**  
+LinkedIn: [linkedin.com/in/amanda-siriwardane](https://linkedin.com/in/amanda-siriwardane)  
+GitHub: [github.com/amandasiriwardane](https://github.com/amandasiriwardane)
 
 ---
 
-## 🛠️ Tech Stack & Tools  
+## Tech Stack & Tools  
 
 ### **Languages**
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
@@ -48,7 +47,7 @@ Passionate Computer Engineering student at the University of Peradeniya with a s
 
 ---
 
-## 📊 GitHub Stats  
+## GitHub Stats  
 <p align="center">
   <img height="180" src="https://github-readme-stats.vercel.app/api?username=amandasiriwardane&show_icons=true&theme=radical" />
   <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=amandasiriwardane&layout=compact&theme=radical" />
@@ -56,9 +55,9 @@ Passionate Computer Engineering student at the University of Peradeniya with a s
 
 ---
 
-# 🌟 Featured Projects  
+# Featured Projects  
 
-## 🔷 **Safe Plus – Smart Safety Helmet**  
+## **Safe Plus – Smart Safety Helmet**  
 _3rd Year Group Project | July 2024 - July 2025_  
 **A real-time industrial safety system detecting falls, hazardous gases, and abnormal heart rate.**
 
@@ -72,7 +71,7 @@ _3rd Year Group Project | July 2024 - July 2025_
 
 ---
 
-## 🔷 **Production Monitoring Dashboard (Mona Dashboard)**  
+## **Production Monitoring Dashboard (Mona Dashboard)**  
 _2nd Year Group Project | Aug 2024 – Jan 2025_  
 Monitors 24 plastic toy machines with **real-time updates, emergency alerts**, and analytics.
 
@@ -84,7 +83,7 @@ Monitors 24 plastic toy machines with **real-time updates, emergency alerts**, a
 
 ---
 
-## 🔷 **Grayscale Image Colorization**  
+## **Grayscale Image Colorization**  
 _CO543 Project | Jan 2025 – Feb 2025_  
 Explored classical colorization methods (OpenCV colormaps, intensity-based mapping).
 
@@ -92,15 +91,15 @@ Explored classical colorization methods (OpenCV colormaps, intensity-based mappi
 
 ---
 
-## 🏆 Awards  
-- 🟣 **Super Contributor – Hacktoberfest 2025**  
-- 🟡 **Half Color Award – Badminton (UoP)**  
-- 🔵 **Best Graphic Designer – AIESEC UoP (2024)**  
-- 🟢 **Best oGV Marketer – AIESEC UoP (2024)**
+## Awards  
+-  **Super Contributor – Hacktoberfest 2025**  
+-  **Half Color Award – Badminton (UoP)**  
+-  **Best Graphic Designer – AIESEC UoP (2024)**  
+-  **Best oGV Marketer – AIESEC UoP (2024)**
 
 ---
 
-## 🎓 Leadership & Activities  
+## Leadership & Activities  
 - **Chair Person (2025)** – IEEE Computer Society Chapter, UoP  
 - **Design Lead (2025–Present)** – IEEE CS Student Chapter  
 - **Brand Manager / Marketing Specialist** – AIESEC in UoP  
