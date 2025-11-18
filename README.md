@@ -54,6 +54,14 @@ Passionate Computer Engineering student at the University of Peradeniya with a s
   <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=amandasiriwardane&layout=compact&theme=radical" />
 </p>
 
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=amandasiriwardane&show_icons=true&theme=tokyonight&hide_border=true" />
+  
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=amandasiriwardane&theme=tokyonight&hide_border=true" />
+  
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=amandasiriwardane&layout=compact&theme=tokyonight&hide_border=true" />
+</p>
+
 ---
 
 # 🌟 Featured Projects  
@@ -109,9 +117,7 @@ Explored classical colorization methods (OpenCV colormaps, intensity-based mappi
 
 ---
 
-## 🙌 Follow Me  
-💙 Follow my GitHub for more developer insights and projects!  
-🔗 https://lnkd.in/gnGUFN83
+
 
 
 <!--
