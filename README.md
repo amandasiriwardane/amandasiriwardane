@@ -6,10 +6,10 @@
 ## About Me  
 Passionate Computer Engineering student at the University of Peradeniya with a strong foundation in software development and growing interest in AI and Machine Learning. I love building scalable systems, intuitive dashboards, and creative tech solutions that blend engineering with design.
 
-- I’m currently working on FInal Year Project - VLM Based Discovery for Knee OSteoarthritis Phenotypes
-- I’m learning more about **Machine Learning, Full Stack Development & AI**
-- I’m open to **collaborations** on Full Stack Development & ML projects  
-- I also enjoy **drawing, illustration, and UI/UX design**
+- currently working on FInal Year Project - VLM Based Discovery for Knee OSteoarthritis Phenotypes
+- learning more about **Machine Learning, Full Stack Development & AI**
+- open to **collaborations** on Full Stack Development & ML projects  
+- enjoy **drawing, illustration, and UI/UX design**
 
 ---
 
@@ -57,7 +57,7 @@ GitHub: [github.com/amandasiriwardane](https://github.com/amandasiriwardane)
 
 # Featured Projects  
 
-## **Safe Plus – Smart Safety Helmet**  
+## **Safe Plus - Smart Safety Helmet**  
 _3rd Year Group Project | July 2024 - July 2025_  
 **A real-time industrial safety system detecting falls, hazardous gases, and abnormal heart rate.**
 
@@ -100,7 +100,7 @@ Explored classical colorization methods (OpenCV colormaps, intensity-based mappi
 ---
 
 ## Leadership & Activities  
-- **Chair Person (2025)** – IEEE Computer Society Chapter, UoP  
+- **Chairperson (2025)** – IEEE Computer Society Chapter, UoP  
 - **Design Lead (2025–Present)** – IEEE CS Student Chapter  
 - **Brand Manager / Marketing Specialist** – AIESEC in UoP  
 - **Team Player (Badminton)** – UoP  
