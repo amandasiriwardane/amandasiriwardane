@@ -1,21 +1,40 @@
 <h1 align="center">Hi, I'm Amanda Siriwardane 👋</h1>
-<h3 align="center">Computer Engineering Undergraduate · Software Engineering Intern @ WSO2 · Identity & Access Management</h3>
+
+<p align="center">
+  <a href="https://amandasiriwardane.github.io">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=800&color=0D9488&center=true&vCenter=true&width=620&lines=Software+Engineer+%C2%B7+Identity+%26+Access+Management;Ex-Software+Engineering+Intern+%40+WSO2;Backend+%C2%B7+Full-Stack+%C2%B7+AI+Tooling" alt="Typing intro">
+  </a>
+</p>
+
+<h3 align="center">Software Engineer · Identity & Access Management · Full-Stack</h3>
+
+<p align="center">
+  <a href="https://amandasiriwardane.github.io"><img src="https://img.shields.io/badge/🌐_Portfolio-amandasiriwardane.github.io-0D9488?style=for-the-badge" alt="Portfolio"></a>
+  <a href="https://www.linkedin.com/in/amanda-siriwardane/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+  <a href="https://medium.com/@siriwardane567"><img src="https://img.shields.io/badge/Medium-Read_my_blog-000000?style=for-the-badge&logo=medium&logoColor=white" alt="Medium"></a>
+  <a href="mailto:amandasiriwardane01@gmail.com"><img src="https://img.shields.io/badge/Email-Say_hi-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=amandasiriwardane&label=Profile%20views&color=0d9488&style=flat-square" alt="Profile views">
+</p>
 
 ---
 
 ## About Me
-Computer Engineering undergraduate at the University of Peradeniya, currently a Software Engineering Intern in the IAM team at **WSO2**. I work on backend systems for a security-standards product, and I like building secure, standards-based systems and clean dashboards.
+Computer Engineering graduate from the University of Peradeniya. I recently completed a Software Engineering internship in the IAM team at **WSO2**, working on backend systems for WSO2 Identity Server. I like building secure, standards-based systems and clean dashboards.
 
-- Building **SSF / CAEP event delivery** for WSO2 Identity Server (Java, OSGi, OAuth2, JWS)
+- Built **SSF / CAEP event delivery** for WSO2 Identity Server (Java, OSGi, OAuth2, JWS)
 - Learning more about **identity standards, backend architecture & cloud-native development**
 - Exploring **Claude / MCP agent tooling** for developer automation
-- Open to collaborating on **backend, IAM and full-stack** projects
+- **Open to software engineering roles** in backend, IAM and full-stack
 - Outside code: illustration, UI/UX design, badminton
 
 ---
 
 ## Contact
 - Colombo, Sri Lanka · University of Peradeniya
+- Portfolio: [amandasiriwardane.github.io](https://amandasiriwardane.github.io)
 - [amandasiriwardane01@gmail.com](mailto:amandasiriwardane01@gmail.com)
 - [linkedin.com/in/amanda-siriwardane](https://linkedin.com/in/amanda-siriwardane)
 
@@ -53,22 +72,27 @@ Computer Engineering undergraduate at the University of Peradeniya, currently a 
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 
----
-
+### AI & Data
+![Claude](https://img.shields.io/badge/Claude_%2F_MCP-D97757?style=for-the-badge&logo=anthropic&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
 
 ---
 
 # Featured Projects
 
+> 🌐 Browse all of these with filters on my [portfolio](https://amandasiriwardane.github.io/#projects).
+
 ## SSF/CAEP Event Delivery for WSO2 Identity Server
-_Internship Project · 2026 – Present_
+_Internship Project · Aug – Oct 2026_
 `Java` `OSGi` `REST API` `OAuth2` `JWS/JWT`
 
 A new connector that implements the **SSF Stream Management REST API**, so WSO2 Identity Server can deliver CAEP security events to external receivers over an OAuth2-protected transport.
 - Service layer delegates CRUD to the existing `WebhookManagementService`, so there is no duplicated persistence logic.
 - Redesigned event-publisher resolution from a single non-deterministic lookup to a **per-event-profile map**. The new JWS-signing SSF publisher now runs alongside the existing HTTP publisher with zero regression.
 
-Work-in-progress forks: [identity-shared-signals-framework](https://github.com/amandasiriwardane/identity-shared-signals-framework-fork) · [carbon-identity-framework](https://github.com/amandasiriwardane/carbon-identity-framework-fork) · [identity-event-publishers](https://github.com/amandasiriwardane/identity-event-publishers-fork) · [identity-webhook-event-handlers](https://github.com/amandasiriwardane/identity-webhook-event-handlers-fork)
+Code (forks): [identity-shared-signals-framework](https://github.com/amandasiriwardane/identity-shared-signals-framework-fork) · [carbon-identity-framework](https://github.com/amandasiriwardane/carbon-identity-framework-fork) · [identity-event-publishers](https://github.com/amandasiriwardane/identity-event-publishers-fork) · [identity-webhook-event-handlers](https://github.com/amandasiriwardane/identity-webhook-event-handlers-fork)
 
 ---
 
@@ -88,15 +112,17 @@ _Internship Onboarding Project · May 2026_
 
 Full-stack SaaS app with **OIDC authentication and JWT validation** via Asgardeo, three user roles with RBAC-secured endpoints, deployed with Choreo CI/CD and API management.
 
+[Frontend](https://github.com/amandasiriwardane/paws-and-homes) · [Backend](https://github.com/amandasiriwardane/paws-and-homes-backend)
+
 ---
 
 ## Multimodal Phenotyping in Knee Osteoarthritis Using VLMs
-_Research · Sep 2025 – Mar 2026_
+_Final Year Research Project · Sep 2025 – Mar 2026_
 `Python` `PyTorch` `BioMedCLIP` `HDBSCAN` `Grad-CAM`
 
 Unsupervised framework that aligns radiographs with clinical text using BioMedCLIP, clusters patients with HDBSCAN to find latent phenotypes beyond standard severity grades, and validates them with Grad-CAM and textual explanations.
 
-[Repository](https://github.com/amandasiriwardane/e20378-4yp-VLM-Guided-Phenotyping-of-KOA)
+[Repository](https://github.com/cepdnaclk/e20-4yp-VLM-Guided-Phenotyping-of-KOA) · [Project Page](https://cepdnaclk.github.io/e20-4yp-VLM-Guided-Phenotyping-of-KOA/)
 
 ---
 
@@ -109,7 +135,7 @@ Real-time hazard detection pipeline: **ESP32 → AWS IoT → Backend → Dashboa
 - Handled deployment: Netlify (frontend), Railway (backend), custom domain.
 - Showcased at **EngEx 2025** · Finalist, **IEEE Sri Lanka FYP Arena 2025**
 
-[Repository](https://github.com/amandasiriwardane/e20-3yp-SafePlus)
+[Repository](https://github.com/cepdnaclk/e20-3yp-SafePlus) · [Project Page](https://cepdnaclk.github.io/e20-3yp-SafePlus/)
 
 ---
 
@@ -119,33 +145,49 @@ _Individual Project · Aug – Dec 2025_
 
 Multi-role platform (3 user types) with 15+ REST endpoints, role-based auth, and Cloudinary-backed product management. Deployed on Vercel and Render.
 
-[Repository](https://github.com/amandasiriwardane/MediGo--Pharmacy-App)
+[Repository](https://github.com/amandasiriwardane/MediGo--Pharmacy-App) · [Live Demo](https://medi-go-pharmacy-app.vercel.app)
 
 ---
 
-## Production Monitoring Dashboard
+## MONA: Production Monitoring Dashboard
 _2nd Year Group Project · Apr – Oct 2024_
 `React` `Python` `MongoDB`
 
 Real-time monitoring for 24 plastic toy machines with live visualization, emergency alerts and historical production records.
 
+[Repository](https://github.com/cepdnaclk/e20-co227-MONA-Dashboard) · [Project Page](https://cepdnaclk.github.io/e20-co227-MONA-Dashboard)
+
 ---
 
 ## More Projects
-- **[ai-code-reviewer](https://github.com/amandasiriwardane/ai-code-reviewer)**: LLM-powered tool that analyzes code and suggests improvements
+- **[AmazAI: Agentic AI Code Reviewer](https://github.com/amandasiriwardane/ai-code-reviewer)**: Gemini tool calling runs AST and security scans before writing the review · [Live Demo](https://ai-code-reviewer-frontend-eight.vercel.app/)
 - **[Room Temperature Anomaly Detection](https://github.com/amandasiriwardane/e20-co326-Room-Temperature-Anomaly-Detection)**: ESP32-S3 + DHT22 + MQTT + Python
+
+---
+
+## Writing
+- [From Plain Java to an OSGi Codebase: What I Wish I Knew on Day One](https://medium.com/@siriwardane567/from-plain-java-to-an-osgi-codebase-what-i-wish-i-knew-on-day-one-14ecfc25a056) · Medium
 
 ---
 
 ## Awards & Highlights
 - Super Contributor, **Hacktoberfest 2025**
-- Finalist, **IEEE Sri Lanka FYP Arena 2025**
+- Finalist, **IEEE Sri Lanka FYP Arena 2025** · Showcased at **EngEx 2025**
 - Finalist, Pre-Coders 2024 (80+ teams) · Participant, Coders v11.0 (300+ teams)
 - Half Color Award, Badminton, University of Peradeniya
 - Selected as 1 of 5 Sri Lankan representatives, 13th Shanghai International Youth Interactive Friendship Camp (2017)
+
+## Certifications
+- AWS Basics, KodeKloud (2026)
+- AWS Technical Essentials, AWS Skill Builder (2025)
+- Artificial Intelligence for Beginners, Alison (2024)
 
 ## Leadership
 - **Chairperson**, IEEE Computer Society Student Chapter, UoP (Nov 2025 – Present); Design Team Lead (Aug 2024 – Nov 2025)
 - **Brand Manager & Marketing Specialist**, AIESEC in UoP
 - **Undergraduate Teaching Assistant**, CO1810 (Python/C) and CO2030 (Java), UoP
 - Member, Rotaract Club of UoP
+
+---
+
+<p align="center"><a href="https://amandasiriwardane.github.io"><b>🌐 See my full portfolio →</b></a></p>
